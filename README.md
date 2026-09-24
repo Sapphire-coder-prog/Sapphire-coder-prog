@@ -6,7 +6,7 @@ Hi, I am Bhavya Bhardwari, an undergraduate student exploring technology, data, 
 
 Currently focused on:
 • UI/UX
-• Frontend Development
+• Backend Development
 • Web Development
 
 Future interests to be pondered upon:
